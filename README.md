@@ -22,8 +22,8 @@ fmftessari@gmail.com
   <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  
   <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftessari)](https://github.com/ftessari/github-readme-stats)
+        
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftessari&theme=radical)](https://github.com/ftessari/github-readme-stats)
   
 </div>
 <div style="display: inline_block"><br/>
