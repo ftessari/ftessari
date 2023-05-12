@@ -1,9 +1,8 @@
 
-  <h1>Reposítorio de FTessari</h1>
-  
-  ![FTessari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftessari&show_icons=true&theme=radical)
-  
-    
+<h1>Reposítorio de FTessari</h1>
+
+![FTessari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftessari&show_icons=true&theme=radical)
+      
   <p>Seja bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma variedade de projetos e trabalhos nos quais estou envolvido. Sou entusiasta da tecnologia e apaixonado por programação, sempre buscando aprender e compartilhar conhecimento com a comunidade.</p>
   <h2>Sobre mim</h2>
   <p>Meu nome é Fábio e estou sempre em busca de novos desafios e oportunidades de aprendizado. Tenho experiência em várias linguagens de programação, como Object-Pascal (Delphi), Python, JavaScript e C#, e também em desenvolvimento PHP (web), mobile e de software.</p>
@@ -21,7 +20,9 @@ fmftessari@gmail.com
   <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  
-  
+  <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftessari)](https://github.com/ftessari/github-readme-stats)
   
 </div>
