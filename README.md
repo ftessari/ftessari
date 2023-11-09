@@ -5,7 +5,7 @@
       
   <p>Welcome to my GitHub repository! Here you will find a variety of projects and work I am involved with. I am a technology enthusiast and passionate about programming, always seeking to learn and share knowledge with the community.</p>
   <h2>About</h2>
-  <p>My name is Fábio and I am always looking for new challenges and learning opportunities. I have experience in several programming languages, such as Object-Pascal (Delphi), Python, JavaScript and C#, and also in PHP (web), mobile and software development.</p>
+  <p>My name is Fábio (a.k.a. 74:n) and I am always looking for new challenges and learning opportunities. I have experience in several programming languages, such as Object-Pascal (Delphi), Python, JavaScript and C#, and also in PHP (web), mobile and software development.</p>
     <p>Here on my GitHub, you will find personal projects, experiments and contributions to open source projects. Feel free to explore the repositories, check out the source code, and leave comments or suggestions.</p>
     <p>Additionally, I'm always willing to collaborate with other developers and learn from the community. So if you have any questions, project ideas or just want to chat, don't hesitate to contact me.</p>
     <p>Thanks for visiting my GitHub and I hope you find something useful or interesting here. Have fun exploring!</p>
